@@ -1,9 +1,9 @@
-###Custom validator for Laravel
+### Custom validator for Laravel
 
 Wrapper to validate any data array according to reusable sets of rules. 
 Has a few yii2-style wrappers for getting validation results.
 
-###Usage example
+### Usage example
 
 Define your set of rules, for example, using a Model
 
