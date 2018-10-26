@@ -1,0 +1,15 @@
+{
+    "name": "airbear/laravel-validator",
+    "description": "Custom Laravel validator for validating any data",
+    "keywords": ["laravel", "framework", "validation", "validator"],
+    "authors": [
+        {
+            "name": "Anastasia Fatianova",
+            "email": "anastasia.fatianova@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "illuminate/validation": "5.7.*"
+    }
+}
